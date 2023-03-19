@@ -1,31 +1,4 @@
 Entries:
-- author: DrSmugleaf
-  changes:
-  - {message: Fixed not showing ban ids in a player's ban list., type: Fix}
-  id: 2690
-  time: '2022-11-21T19:04:24.0000000+00:00'
-- author: metalgearsloth
-  changes:
-  - {message: Fix some mapgrids not being sent to clients., type: Fix}
-  id: 2691
-  time: '2022-11-22T09:28:09.0000000+00:00'
-- author: metalgearsloth
-  changes:
-  - {message: Fix exception when shooting with your mouse outside of the window.,
-    type: Fix}
-  id: 2692
-  time: '2022-11-23T06:35:06.0000000+00:00'
-- author: Mervill
-  changes:
-  - {message: Items dropped onto a moving Conveyor by the disposal network move immediately,
-    type: Fix}
-  id: 2693
-  time: '2022-11-23T07:38:39.0000000+00:00'
-- author: Macoron
-  changes:
-  - {message: Chameleon masks and helmets can hide your identity., type: Tweak}
-  id: 2694
-  time: '2022-11-24T02:02:55.0000000+00:00'
 - author: metalgearsloth
   changes:
   - {message: Maybe fix grid clipping., type: Fix}
@@ -2898,3 +2871,34 @@ Entries:
   - {message: all heads of staff now have flashes in their bag for self defence, type: Add}
   id: 3189
   time: '2023-03-15T04:37:50.0000000+00:00'
+- author: not-gavnaed
+  changes:
+  - {message: Added Station Records Computer on Aspid & Bagel, type: Add}
+  id: 3190
+  time: '2023-03-15T23:50:08.0000000+00:00'
+- author: mirrorcult
+  changes:
+  - {message: Some forms of healing will no longer unexpectedly affect bleeding.,
+    type: Fix}
+  - {message: 'Bleeding and bloodloss damage is now more relevant, and you should
+      expect to encounter it in medical more often', type: Tweak}
+  id: 3191
+  time: '2023-03-16T22:27:28.0000000+00:00'
+- author: Slava0135
+  changes:
+  - {message: 'Solar flare lost it''s ability to manipulate mechanical doors, curtains
+      and firelocks. Now it only affects autoclosing airlocks.', type: Fix}
+  id: 3192
+  time: '2023-03-18T10:57:38.0000000+00:00'
+- author: 778b
+  changes:
+  - {message: Added IFF console boards!, type: Add}
+  id: 3193
+  time: '2023-03-19T00:55:54.0000000+00:00'
+- author: mirrorcult
+  changes:
+  - {message: All entity storage now has a roughly 2.5x higher air capacity., type: Tweak}
+  - {message: Livestock crates now have ~10x higher air capacity compared to previously.,
+    type: Tweak}
+  id: 3194
+  time: '2023-03-19T00:56:39.0000000+00:00'
